@@ -8,3 +8,9 @@
 |---------|-----|--------|-----|---------|
 | mobilenet | [✅](./mobilenet/cpp) | [✅](./mobilenet/python/) | [✅](./mobilenet/ios) | [✅](./mobilenet/ios/) |
 | yolov8 | [✅](./yolov8/cpp) | [✅](./yolov8/python/) | - | - |
+
+## AIGC
+
+|  model  | C++ | Python | iOS | Android |
+|---------|-----|--------|-----|---------|
+| stable-diffusion | [✅](./stable-diffusion) | - | - | - |
