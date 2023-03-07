@@ -13,7 +13,7 @@ using namespace MNN::CV;
 
 int main(int argc, const char* argv[]) {
     if (argc < 3) {
-        MNN_PRINT("Usage: ./mobilenetTest.out model.mnn input.jpg [forwardType] [precision] [thread]\n");
+        MNN_PRINT("Usage: ./mobilenet_demo.out model.mnn input.jpg [forwardType] [precision] [thread]\n");
         return 0;
     }
     int thread = 4;
